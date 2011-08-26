@@ -1,6 +1,6 @@
 ;; eprime-mode.el -- Derived mode for writing Essence'
 ;; Copyright (C) 2011 by Jan de Muijnck-Hughes
-;; Author: Jan de Muijnck-Hughes <jfdm@st-andrews.ac.uk>
+;; Author: Jan de Muijnck-Hughes
 ;;
 ;;; DESCRIPTION
 ;;
